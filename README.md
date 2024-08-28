@@ -1,2 +1,2 @@
-# gemini-clone123
+# Gemini-Clone
  
